@@ -1,4 +1,8 @@
-## Hi there 👋
+##Маленький червячок в таком огромном болоте
+
+**Мои социалочки**
+[![Twitch](https://m.media-amazon.com/images/I/21kRx-CJsUL.png)(https://www.twitch.tv/cloounada)
+[!Telegram](https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9)(https://t.me/selcchikk)
 
 <!--
 **clouunada/clouunada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
